@@ -17,4 +17,4 @@ Es muy *rico*
 
 ![Tucumán] (http://www.argentinaturismo.com.ar/jujuy/img/img-quebrada.jpg)
 
-[Acá terminé]
+[Acá terminé] (http://www.argentinaturismo.com.ar/purmamarca/)
