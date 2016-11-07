@@ -2,7 +2,7 @@
 
 Es muy *rico*
 
-~ Son como las de mamá~
+**Son como las de mamá**
 
 - Ingredientes
   - 1 taza de leche
